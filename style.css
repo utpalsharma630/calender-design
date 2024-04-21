@@ -13,15 +13,16 @@
     justify-content: center;
     align-items: center;
     border-radius: 5px;
+    
 }
 .day{
-    background-color: gray;
+    background-color: rgb(248, 232, 232);
 }
 #reject-date{
     background-color: darkgray;
 }
 #holiday{
-    background-color: red;
+    background-color: rgb(247, 107, 107);
 }
 h3{
     text-align: center;

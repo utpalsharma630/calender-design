@@ -28,5 +28,7 @@ h3{
     text-align: center;
     font-size: 28px;
     font-weight: 600;
-    border-bottom: dotted;
+    border-bottom: 2px dotted black;
+    padding-bottom: 20px;
+    color: yellowgreen;
 }

@@ -19,6 +19,7 @@
     background-color: gold;
     color: white;
     width: 105px;
+   
 }
 .day{
     background-color: rgb(248, 232, 232);
@@ -36,4 +37,5 @@ h3{
     border-bottom: 2px dotted black;
     padding-bottom: 20px;
     color: yellowgreen;
+    background-color: bisque;
 }
